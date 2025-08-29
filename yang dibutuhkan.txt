@@ -3,5 +3,5 @@ apa saja yang dibutuhkan
 - java
 - php
   * fremwork
-  * pemahaman laravel
 - python
+- c++
