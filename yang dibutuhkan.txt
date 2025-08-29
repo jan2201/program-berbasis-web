@@ -2,5 +2,5 @@ apa saja yang dibutuhkan
 - vscode
 - java
 - php
+  *fremwork
 - python
-- c++
