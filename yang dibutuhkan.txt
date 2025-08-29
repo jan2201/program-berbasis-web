@@ -1,7 +1,7 @@
 apa saja yang dibutuhkan
 - vscode
 - java
+ * operator aritmatika
 - php
   * fremwork
 - python
-- c++
