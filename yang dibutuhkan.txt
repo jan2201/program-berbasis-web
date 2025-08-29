@@ -1,5 +1,6 @@
 apa saja yang dibutuhkan
 - vscode
+ * instal jdk
 - java
 - php
   * fremwork
