@@ -1,0 +1,4 @@
+tujuan program berbasis web
+- membuat siswa lebih kreatif
+- memahami program berbasis web
+- memanfaatkan siswa dalam web tersebut
