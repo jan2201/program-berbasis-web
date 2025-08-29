@@ -4,5 +4,5 @@ apa saja yang dibutuhkan
 - java
  * operator aritmatika
 - php
-  * fremwork
 - python
+- c++
