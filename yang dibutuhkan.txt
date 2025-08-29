@@ -3,5 +3,6 @@ apa saja yang dibutuhkan
   * instal jdk
 - java
 - php
+ * framwork
 - python
 - c++
