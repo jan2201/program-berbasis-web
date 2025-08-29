@@ -1,8 +1,7 @@
 apa saja yang dibutuhkan
 - vscode
- * instal jdk
 - java
- * operator aritmatika
 - php
   * fremwork
 - python
+- c++
